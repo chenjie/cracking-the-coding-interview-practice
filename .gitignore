@@ -1,2 +1,6 @@
 # Notebook Checkpoints
 .ipynb_checkpoints/
+
+# Python bycode
+*.pyc 
+
