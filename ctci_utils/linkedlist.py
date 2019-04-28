@@ -29,6 +29,14 @@ class LinkedListNode:
 		node.next = self
 		return node
 
+	def length(self):
+		length = 0
+		cur = self
+		while cur is not None:
+			length += 1
+			cur = cur.next
+		return length
+
 
 class LinkedList:
 	# Wrapper for LinkedListNode
