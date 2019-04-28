@@ -26,3 +26,10 @@ class Stack:
 			print("None")
 		else:
 			self.top.print_forward()
+
+	# Added after starting to read Ch3
+	def peek(self):
+		return self.top.val
+
+	def is_empty(self):
+		return self.size == 0
