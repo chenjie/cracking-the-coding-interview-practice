@@ -22,3 +22,7 @@ class LinkedList:
 			val_list.append(str(cur.val))
 			cur = cur.next
 		return 'None' if len(val_list) == 0 else ' -> '.join(val_list) + ' -> None'
+
+	def add_to_front(self, node):
+		node.next = self.head
+		self.head = node
