@@ -10,3 +10,10 @@
   <img src="https://user-images.githubusercontent.com/25379724/56853998-7aeedd80-68fd-11e9-901e-b772894d8e30.jpg" height="210" /> 
   <img src="https://user-images.githubusercontent.com/25379724/56853996-76c2c000-68fd-11e9-9cbc-f18defc96cc6.png" height="210" />
 </p>
+
+## Collaborators
+
+| Name                    | GitHub                                     | Email
+| ----------------------- | ------------------------------------------ | -------------------------
+| Chenjie (Jack) Ni       | [jellycsc](https://github.com/jellycsc)    | nichenjie2013@gmail.com
+| Runqi (KiKi) Bi         | [kiki1415926](https://github.com/kiki1415926)    | runqi.bi@mail.utoronto.ca
