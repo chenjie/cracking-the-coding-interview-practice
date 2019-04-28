@@ -17,3 +17,6 @@
 | ----------------------- | ------------------------------------------ | -------------------------
 | Chenjie (Jack) Ni       | [jellycsc](https://github.com/jellycsc)    | nichenjie2013@gmail.com
 | Runqi (KiKi) Bi         | [kiki1415926](https://github.com/kiki1415926)    | runqi.bi@mail.utoronto.ca
+
+## License
+[MIT](LICENSE)
