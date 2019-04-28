@@ -1,7 +1,7 @@
 # cracking-the-coding-interview-practice
 
-[![MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
-      width="109" height="20"><br>
+[![MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) <a href="https://nbviewer.jupyter.org/"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
+      width="109" height="20"></a><br>
 
 🎓Illustrated using Jupyter Notebook along with Python 3.
 
