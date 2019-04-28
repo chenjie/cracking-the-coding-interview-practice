@@ -8,14 +8,22 @@ class LinkedListNode:
 	def __str__(self):
 		return str(self.val)
 
-	def print_full_ll(self):
+	def print_forward(self):
+		# No need for extra space
+		# Space complexity: O(1)
 		cur = self
-		val_list = []
 		while cur is not None:
-			val_list.append(str(cur.val))
+			print(str(cur.val) + " -> ", end='')
 			cur = cur.next
-		res = ' -> '.join(val_list) + ' -> None'
-		print(res)
+		print("None")
+
+	def print_backward(self):
+		# Space complexity: O(n) because of recursion
+		if self.next is None:
+			print(self.val)
+			return
+		self.next.print_backward()
+		print(self.val)
 
 	def add_to_front(self, node):
 		node.next = self
@@ -26,8 +34,8 @@ class LinkedList:
 	# Wrapper for LinkedListNode
 
 	def __init__(self):
-		print("Not very useful. DO NOT USE!")
-		# self.head = None
+		print("Not friendly for recursion. Be careful!")
+		self.head = None
 
 	def __str__(self):
 		cur = self.head
