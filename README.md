@@ -1,6 +1,6 @@
 # cracking-the-coding-interview-practice
 
-<img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
+[![MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
       width="109" height="20"><br>
 
 🎓Illustrated using Jupyter Notebook along with Python 3.
